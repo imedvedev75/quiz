@@ -9,10 +9,11 @@ This is a demonstration of the Quiz application which consists of a server-side 
 
 To publish the server, for instance, to Google Cloud Registry (GCR), use the following sample commands:
 
+```
 gcloud config set project quiz-49abd
 gcloud builds submit --tag gcr.io/quiz-49abd/quiz_app
 gcloud run deploy quiz-service --image gcr.io/quiz-49abd/quiz_app --platform managed --region us-central1 --allow-unauthenticated
-
+```
 
 ### Running GCR Server Instance:
 
