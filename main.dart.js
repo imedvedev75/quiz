@@ -43541,7 +43541,7 @@ n=g.a.c.b.length>1?A.apj(A.bV("Delete Question",f,f,f,f,f,f),new A.ait(g,q),f):A
 c[q]=new A.cd(B.aW,A.kI(A.a([new A.lK(5,B.cC,new A.cd(B.aW,p,f),f),new A.lK(3,B.cC,new A.cd(B.aW,o,f),f),new A.lK(2,B.cC,new A.cd(B.aW,n,f),f)],s),B.dp,B.aK,B.aL),f)}e=A.a([new A.cd(B.aW,e,f),A.nx(c,B.aI,B.aK,B.aL)],s)
 if(g.a.c.b.length<10){s=A.bV("Add question",f,f,f,f,f,f)
 r=t.nw
-e.push(new A.qx(A.a([A.aoi(A.bV("Yes/No",f,f,f,f,f,f),B.jn,r),A.aoi(A.bV("Single Select",f,f,f,f,f,f),B.jo,r),A.aoi(A.bV("Multi Select",f,f,f,f,f,f),B.jp,r)],t.U4),s,new A.aiu(g),f,t._T))}return A.auQ(A.nx(e,B.aI,B.aK,B.aL))}}
+e.push(new A.qx(A.a([A.aoi(A.bV("Yes/No",f,f,f,f,f,f),B.jn,r),A.aoi(A.bV("Single Choice",f,f,f,f,f,f),B.jo,r),A.aoi(A.bV("Multi Choice",f,f,f,f,f,f),B.jp,r)],t.U4),s,new A.aiu(g),f,t._T))}return A.auQ(A.nx(e,B.aI,B.aK,B.aL))}}
 A.aig.prototype={
 $0(){B.b.F(this.a.a.c.b,this.b)},
 $S:0}
