@@ -38,7 +38,7 @@ Code: Flutter Web.
 ```
 * upload the content of build/web to the preferred hosting.
 
-### Deployed client app:
+### Live demo:
 
 https://imedvedev75.github.io/quiz/
 
