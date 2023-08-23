@@ -43430,8 +43430,8 @@ $S:46}
 A.cE.prototype={
 eX(){return A.aq(["text",this.a,"correct",this.b],t.N,t.z)}}
 A.kF.prototype={
-eX(){var s=this.b,r=this.d,q=A.a9(r).i("a7<1,at<o,@>>")
-return A.aq(["text",s,"answers",A.ak(new A.a7(r,new A.a7q(),q),!0,q.i("aY.E"))],t.N,t.z)}}
+eX(){var s=this.a.G(),r=this.b,q=this.d,p=A.a9(q).i("a7<1,at<o,@>>")
+return A.aq(["type",s,"text",r,"answers",A.ak(new A.a7(q,new A.a7q(),p),!0,p.i("aY.E"))],t.N,t.z)}}
 A.a7q.prototype={
 $1(a){return a.eX()},
 $S:330}
